@@ -1,0 +1,611 @@
+[
+	{
+		"name": "2B Bebe",
+		"address": "643 Bluebird Ct, Central Valley, NY 10917"
+	}, {
+		"name": "7 For All Mankind",
+		"address": "498 Red Apple Court, Central Valley, NY 10917"
+	}, {
+		"name": "A|X Armani Exchange",
+		"address": "315 Red Apple Ct, Central Valley, NY 10917"
+	}, {
+		"name": "Adidas",
+		"address": "422 Evergreen Ct, Central Valley, NY 10917"
+	}, {
+		"name": "Aeropostale",
+		"address": "498 Red Apple Ct, Central Valley, NY 10917"
+	}, {
+		"name": "AG Adriano Goldschmied",
+		"address": "216 Red Apple Ct, Central Valley, NY 10917"
+	}, {
+		"name": "American Eagle Outfitters",
+		"address": "974 Grapevine Ct, Central Valley, NY 10917"
+	}, {
+		"name": "Ann Taylor Factory Store",
+		"address": "101 Marigold Ct, Central Valley, NY 10917"
+	}, {
+		"name": "Anne Fontaine",
+		"address": "311 Red Apple Ct, Central Valley, NY 10917"
+	}, {
+		"name": "Armani Outlet",
+		"address": "498 Red Apple Ct #250, Central Valley, NY 10917"
+	}, {
+		"name": "Balenciaga",
+		"address": "885 Grapevine Ct, Central Valley, NY 10917"
+	}, {
+		"name": "Banana Republic",
+		"address": "454 Evergreen Ct, Central Valley, NY 10917"
+	}, {
+		"name": "BCBG Max Azria",
+		"address": "826 Grapevine Ct, Central Valley, NY 10917"
+	}, {
+		"name": "Bottega Veneta",
+		"address": "Grapevine Ct #836, Central Valley, NY 10917"
+	}, {
+		"name": "Brioni",
+		"address": "401 Evergreen Ct, Central Valley, NY 10917"
+	}, {
+		"name": "Brunello Cucinelli",
+		"address": "801 Grapevine Ct, Central Valley, NY 10917"
+	}, {
+		"name": "Burberry",
+		"address": "266 Red Apple Ct, Central Valley, NY 10917"
+	}, {
+		"name": "Calvin Klein",
+		"address": "660 Bluebird Ct, Central Valley, NY 10917"
+	}, {
+		"name": "Canali",
+		"address": "349 Red Apple Ct, Central Valley, NY 10917"
+	}, {
+		"name": "Chico’s",
+		"address": "15 Centre Dr, Central Valley, NY 10917"
+	}, {
+		"name": "Chloé",
+		"address": "822 Grapevine Ct, Central Valley, NY 10917"
+	}, {
+		"name": "Columbia Sportswear",
+		"address": "173 Marigold Ct, Central Valley, NY 10917"
+	}, {
+		"name": "Diane Von Furstenberg",
+		"address": "881 Grapevine Ct, Central Valley, NY 10917"
+	}, {
+		"name": "Diesel",
+		"address": "621 Bluebird Ct, Central Valley, NY 10917"
+	}, {
+		"name": "Dior",
+		"address": "808 Grapevine Ct, Central Valley, NY 10917"
+	}, {
+		"name": "DKNY",
+		"address": "273 Red Apple Ct, Central Valley, NY 10917"
+	}, {
+		"name": "Dolce & Gabbana",
+		"address": "843 Grapevine Ct, Central Valley, NY 10917"
+	}, {
+		"name": "Dunhill",
+		"address": "441 Evergreen Ct, Central Valley, NY 10917"
+	}, {
+		"name": "Eddie Bauer Outlet",
+		"address": "223 Red Apple Ct, Central Valley, NY 10917"
+	}, {
+		"name": "Elie Tahar",
+		"address": "960 Grapevine Ct, Central Valley, NY 10917"
+	}, {
+		"name": "Ermenegildo Zegna",
+		"address": "292 Red Apple Ct, Central Valley, NY 10917"
+	}, {
+		"name": "Escada",
+		"address": "347 Red Apple Ct, Central Valley, NY 10917"
+	}, {
+		"name": "Fendi",
+		"address": "844 Grapevine Ct, Central Valley, NY 10917"
+	}, {
+		"name": "G-Star Raw",
+		"address": "636 Bluebird Ct, Central Valley, NY 10917"
+	}, {
+		"name": "Gap Outlet",
+		"address": "470 Evergreen Ct, Central Valley, NY 10917"
+	}, {
+		"name": "Gucci",
+		"address": "302 Red Apple Court, Route 32, Woodbury, NY 10930"
+	}, {
+		"name": "Hugo Boss Factory Store",
+		"address": "851 Grapevine Ct, Central Valley, NY 10917"
+	}, {
+		"name": "Izod",
+		"address": "698 Bluebird Ct, Central Valley, NY 10917"
+	}, {
+		"name": "J.Crew",
+		"address": "460 Evergreen Ct, Central Valley, NY 10917"
+	},
+
+	{
+		"name": "James Perse",
+		"address": "JAMES PERSE, 433 Evergreen Court, Central Valley, NY 10917"
+	}, {
+		"name": "Jockey",
+		"address": "Jockey Outlet, 626 Bluebird Court, Central Valley, NY 10917"
+	}, {
+		"name": "Joe’s Jeans",
+		"address": "Joe's Jeans, 644 Bluebird Court, Central Valley, NY 10917"
+	}, {
+		"name": "John Varvatos",
+		"address": "John Varvatos, 498 Red Apple Court, Central Valley, NY 10917"
+	},  {
+		"name": "La Perla",
+		"address": "La Perla, 807 Grapevine Court, Central Valley, NY 10917"
+	}, {
+		"name": "Lacoste",
+		"address": "Lacoste Woodbury Outlet, 423 Evergreen Court, Central Valley, NY 10917"
+	}, {
+		"name": "Neiman Marcus",
+		"address": "Neiman Marcus Last Call, 934 Grapevine Court, Central Valley, NY 10917"
+	}, {
+		"name": "Levi’s Outlet Store",
+		"address": "Levi's Outlet Store at Woodbury Common Premium Outlets, 101 Marigold Court, Central Valley, NY 10917"
+	}, {
+		"name": "Loft Outlet",
+		"address": "LOFT Outlet, 498 Red Apple Court, Central Valley, NY 10917"
+	}, {
+		"name": "Loro Piana",
+		"address": "Loro Piana, 831 Grapevine Court, Central Valley, NY 10917"
+	}, {
+		"name": "Lucky Brand",
+		"address": "Lucky Brand, 111 Marigold Court, Central Valley, NY 10917"
+	}, {
+		"name": "Lululemon Athletica",
+		"address": "lululemon athletica, 498 Red Apple Court #430, Central Valley, NY 10917"
+	}, {
+		"name": "Maidenform",
+		"address": "Hanes, 639 Bluebird Court, Central Valley, NY 10917"
+	}, {
+		"name": "Marni",
+		"address": "Marni, 298 Red Apple Court, Central Valley, NY 10917"
+	}, {
+		"name": "MaxMara",
+		"address": "Max Mara, 818 Grapevine Court, Central Valley, NY 10917"
+	}, {
+		"name": "MaxStudio.com",
+		"address": "Max Studio Woodbury Common (Outlet Store), 825 Grapevine Court, Central Valley, NY 10917"
+	}, {
+		"name": "Michael Kors",
+		"address": "Michael Kors, 332 Red Apple Court, Central Valley, NY 10917"
+	}, {
+		"name": "Moncler",
+		"address": "Moncler, Red Apple Court, Central Valley, NY 10917"
+	}, {
+		"name": "Nautica",
+		"address": "Nautica Outlet, 261 Red Apple Court, Central Valley, NY 10917"
+	}, {
+		"name": "Nike Factory Store",
+		"address": "Nike Factory Store, 600 Bluebird Court, Central Valley, NY 10917"
+	}, {
+		"name": "The North Face",
+		"address": "The North Face Outlet, 461 Evergreen Court, Central Valley, NY 10917"
+	}, {
+		"name": "Oakley Vault",
+		"address": "Oakley Vault, 484 Evergreen Court, Central Valley, NY 10917"
+	}, {
+		"name": "Oscar de la Renta",
+		"address": "Oscar de la Renta, 883 Grapevine Court, Central Valley, NY 10917"
+	}, {
+		"name": "PacSun",
+		"address": "Pacsun, 452 Evergreen Court, Central Valley, NY 10917"
+	}, {
+		"name": "Polo Ralph Lauren",
+		"address": "Polo Ralph Lauren Factory Store, 861 Grapevine Court, Central Valley, NY 10917"
+	}, {
+		"name": "Prada",
+		"address": "Prada, 498 Red Apple Court, Central Valley, NY 10917"
+	}, {
+		"name": "Ralph Lauren Factory Store",
+		"address": "Ralph Lauren Home Factory Store, 465 Evergreen Court #465, Central Valley, NY 10917"
+	}, {
+		"name": "Roberto Cavalli",
+		"address": "Roberto Cavalli, 865 Grapevine Court, Central Valley, NY 10917"
+	}, {
+		"name": "Saint Laurent Paris",
+		"address": "Saint Laurent Woodbury Common Premium Outlets, 818 Grapevine Court, Central Valley, NY 10917"
+	}, {
+		"name": "Saks Fifth Avenue Off 5th",
+		"address": "Saks OFF 5TH, 498 Red Apple Court #850, Central Valley, NY 10917"
+	}, {
+		"name": "Salvatore Ferragamo",
+		"address": "Salvatore Ferragamo, 258 Red Apple Court, Central Valley, NY 10917"
+	}, {
+		"name": "Sarar",
+		"address": "SARAR- Menswear Retailer Offering High-end Designer Suits, Jackets & Formal Wear, 619 Bluebird Court #619, Central Valley, NY 10917"
+	}, {
+		"name": "Spyder",
+		"address": "Spyder, 664 Bluebird Court, Central Valley, NY 10917"
+	}, {
+		"name": "St. John Outlet",
+		"address": "St. John Outlet, 296 Red Apple Court, Central Valley, NY 10917"
+	}, {
+		"name": "Superdry",
+		"address": "Superdry, 165 Marigold Court, Central Valley, NY 10917"
+	}, {
+		"name": "Ted Baker London",
+		"address": "Ted Baker, 498 Red Apple Court #873, Central Valley, NY 10917"
+	}, {
+		"name": "Theory",
+		"address": "Theory, 912 Grapevine Court, Central Valley, NY 10917"
+	}, {
+		"name": "Theory Men",
+		"address": "Theory, 490 Evergreen Court, Central Valley, NY 10917"
+	}, {
+		"name": "Thomas Pink",
+		"address": "Thomas Pink, 802 Grapevine Court, Central Valley, NY 10917"
+	}, {
+		"name": "Tommy Bahama",
+		"address": "Tommy Bahama Outlet, 139 Marigold Court, Central Valley, NY 10917"
+	}, {
+		"name": "Tommy Hilfiger",
+		"address": "Tommy Hilfiger, 231 Red Apple Court, Central Valley, NY 10917"
+	}, {
+		"name": "Tom Ford",
+		"address": "TOM FORD, 830 Grapevine Court, Central Valley, NY 10917"
+	}, {
+		"name": "Tory Burch",
+		"address": "Tory Burch, 846 Grapevine Court, Central Valley, NY 10917"
+	}, {
+		"name": "True Religion Brand Jeans",
+		"address": "True Religion, 321 Red Apple Court, Central Valley, NY 10917"
+	}, {
+		"name": "TSE",
+		"address": "Tse Cashmere, 946 Grapevine Court, Central Valley, NY 10917"
+	}, {
+		"name": "U.S. Polo Assn.",
+		"address": "U.S. Polo Assn. Outlet, Woodbury Common Premium Outlets, 498 Red Apple Court, Central Valley, NY 10917"
+	}, {
+		"name": "Under Armour",
+		"address": "Under Armour Factory House, 185 Marigold Court q101, Central Valley, NY 10917"
+	}, {
+		"name": "Valentino",
+		"address": "Valentino Outlet, 498 Red Apple Court, Central Valley, NY 10917"
+	}, {
+		"name": "Van Heusen",
+		"address": "Van Heusen Factory Outlet, 280 Red Apple Court, Central Valley, NY 10917"
+	}, {
+		"name": "Versace",
+		"address": "Versace Co Store, 300 Red Apple Court, Central Valley, NY 10917"
+	}, {
+		"name": "Vilebrequin",
+		"address": "Vilebrequin, 326 Red Apple Court, Central Valley, NY 10917"
+	}, {
+		"name": "Vineyard Vines",
+		"address": "Vineyard Vines, 151 Marigold Court, Central Valley, NY 10917"
+	}, {
+		"name": "Wolford",
+		"address": "Wolford Outlet - Woodbury Commons Premium Outlets, 337 Red Apple Court, Central Valley, NY 10917"
+	}, {
+		"name": "Aerosoles",
+		"address": "Aerosoles, 19 Bluebird Ct, Central Valley, Woodbury, NY 10917"
+
+	}, {
+		"name": "Aldo",
+		"address": "Aldo 468 Red Apple Ct, Central Valley, NY 10917"
+
+	}, {
+		"name": "Bally",
+		"address": "Bally, 218 Red Apple Ct, Central Valley, NY 10917"
+
+	}, {
+		"name": "Clarks Bostonian",
+		"address": "Clarks Bostonian, 694 Bluebird Ct, Central Valley, NY 10917"
+
+	}, {
+		"name": "Cole Haan",
+		"address": "Cole Haan, 15 Red Apple Ct, Central Valley, NY 10917"
+
+	}, {
+		"name": "Converse",
+		"address": "Converse, 950 Grapevine Ct, Central Valley, NY 10917"
+
+	}, {
+		"name": "Crocs",
+		"address": "Crocs, 607 Bluebird Ct, Central Valley, NY 10917"
+
+	}, {
+		"name": "ECCO",
+		"address": "ECCO, 439 Evergreen Ct, Central Valley, NY 10917"
+
+	}, {
+		"name": "G.H. Bass & Co.",
+		"address": "G.H. Bass & Co., 228 Valley Ave, Central Valley, NY 10917"
+
+	}, {
+		"name": "Geox",
+		"address": "Geox, 157 Niagara District, Central Valley, NY 10917"
+
+	}, {
+		"name": "Hush Puppies",
+		"address": "Hush Puppies Merrell Sebago, 435 Evergreen Ct, Central Valley, NY 10917"
+
+	}, {
+		"name": "Jimmy Choo",
+		"address": "Jimmy Choo, 324 Red Apple Ct, Central Valley, NY 10917"
+
+	}, {
+		"name": "Johnston & Murphy",
+		"address": "Johnston & Murphy, 803 Grapevine Ct, Central Valley, NY 10917"
+
+	}, {
+		"name": "Kenneth Cole",
+		"address": "Kenneth Cole, 209 Red Apple Ct, Central Valley, NY 10917"
+
+	}, {
+		"name": "Naturalizer",
+		"address": "Naturalizer, 112 Marigold Ct, Central Valley, NY 10917"
+
+	}, {
+		"name": "Nine West Outlet",
+		"address": "Nine West Outlet, 649 Bluebird Ct, Central Valley, NY 10917"
+
+	}, {
+		"name": "Puma",
+		"address": "Puma, 633 Bluebird Ct, Central Valley, NY 10917"
+
+	}, {
+		"name": "Ralph Lauren Factory Store",
+		"address": "Ralph Lauren Factory Store, 465 Evergreen Ct #465, Central Valley, NY 10917"
+
+	}, {
+		"name": "Reebok",
+		"address": "Reebok, 629 Bluebird Ct, Central Valley, NY 10917"
+
+	}, {
+		"name": "Rockport",
+		"address": "Rockport, 169 Marigold Ct, Central Valley, NY 10917"
+
+	}, {
+		"name": "Saucony",
+		"address": "Saucony, 121 Marigold Ct, Central Valley, NY 10917"
+
+	}, {
+		"name": "Skechers",
+		"address": "Skechers, 480 Evergreen Ct, Central Valley, NY 10917"
+
+	}, {
+		"name": "Sperry Top-Sider",
+		"address": "Sperry Top-Sider, 121 Marigold Ct, Central Valley, NY 10917"
+
+	}, {
+		"name": "Timberland",
+		"address": "Timberland, 680 Bluebird Ct, Central Valley, NY 10917"
+
+	}, {
+		"name": "Tod’s",
+		"address": "Tod’s, 968 Grapevine Ct, Central Valley, NY 10917"
+
+	}, {
+		"name": "Ugg Australia",
+		"address": "Ugg Australia, 107 Marigold Ct, Central Valley, NY 10917"
+
+	}, {
+		"name": "Breitling",
+		"address": "Breitling, 322 Red Apple Ct, Central Valley, NY 10917"
+
+	}, {
+		"name": "Brighton Collectibles",
+		"address": "Brighton Collectibles, 127 Marigold Ct, Central Valley, NY 10917"
+
+	}, {
+		"name": "Coach",
+		"address": "Coach, 303 Red Apple Ct #303, Central Valley, NY 10917"
+
+	}, {
+		"name": "Coach Men’s",
+		"address": "Coach Men’s, 254 Red Apple Ct #254, Central Valley, NY 10917"
+
+	}, {
+		"name": "David Yurman",
+		"address": "David Yurman at The London Jewelry Collection, 498 Red Apple Ct, Central Valley, NY 10917"
+
+	}, {
+		"name": "Dooney & Bourke",
+		"address": "Dooney & Bourke, 203 Red Apple Ct #203, Central Valley, NY 10917"
+
+	}, {
+		"name": "Fossil",
+		"address": "Fossil, 155 Marigold Ct, Central Valley, NY 10917"
+
+	}, {
+		"name": "Furla",
+		"address": "Furla, 801 Grapevine Ct, Central Valley, NY 10917"
+
+	}, {
+		"name": "Guess Factory Accessories",
+		"address": "Guess Factory Accessories, 442 Evergreen Ct, Central Valley, NY 10917"
+
+	}, {
+		"name": "Ilori Eyewear Boutique",
+		"address": "Ilori Eyewear Boutique, 801 Grapevine Ct, Central Valley, NY 10917"
+
+	}, {
+		"name": "Kate Spade New York",
+		"address": "Kate Spade New York, 269 Red Apple Ct, Central Valley, NY 10917"
+
+	}, {
+		"name": "Kay Jewelers Outlet",
+		"address": "Kay Jewelers Outlet, 889 Grape Vine Court, Central Valley, NY 10917"
+
+	}, {
+		"name": "LeSportsac",
+		"address": "LeSportsac, 690 Bluebird Ct, Central Valley, NY 10917"
+
+	}, {
+		"name": "LensCrafters",
+		"address": "LensCrafters, 181 Marigold Ct, Central Valley, NY 10917"
+
+	}, {
+		"name": "Lids For Less",
+		"address": "Lids For Less, 449 Evergreen Ct, Central Valley, NY 10917"
+
+	}, {
+		"name": "Movado Company Store",
+		"address": "Movado Company Store, 230 Red Apple Ct, Central Valley, NY 10917"
+
+	}, {
+		"name": "Solstice Sunglass Outlet",
+		"address": "Solstice Sunglass Outlet, 431 Evergreen Ct, Central Valley, NY 10917"
+
+	}, {
+		"name": "Sunglass Hut",
+		"address": "Sunglass Hut, 447 Evergreen Ct, Route 32, Central Valley, NY 10917"
+
+	}, {
+		"name": "Sunglass Station",
+		"address": "Sunglass Station, 358 Red Apple Ct, Central Valley, NY 10917"
+
+	}, {
+		"name": "Swarovski",
+		"address": "Swarovski, 839 Grapevine Ct, Central Valley, NY 10917"
+
+	}, {
+		"name": "TAG Heuer",
+		"address": "TAG Heuer, 841 Grapevine Court, Central Valley, NY 10917"
+
+	}, {
+		"name": "Time Factory Watch Outlet",
+		"address": "Time Factory Watch Outlet, 340 Red Apple Ct #2e, Central Valley, NY 10917"
+
+	}, {
+		"name": "Vera Bradley",
+		"address": "Vera Bradley, 276 Red Apple Ct, Central Valley, NY 10917"
+
+	}, {
+		"name": "Zales Outlet",
+		"address": "Zales Outlet, 443 Evergreen Ct, Central Valley, NY 10917"
+
+	}, {
+		"name": "Carter’s",
+		"address": "Carter’s, 434 Evergreen Ct, Central Valley, NY 10917"
+
+	}, {
+		"name": "The Childrens Place Outlet",
+		"address": "The Childrens Place Outlet, 632 Bluebird Ct, Central Valley, NY 10917"
+
+	}, {
+		"name": "Disney Store Outlet",
+		"address": "Disney Store Outlet, 191 Marigold Ct, Central Valley, NY 10917"
+
+	}, {
+		"name": "Gymboree Outlet",
+		"address": "Gymboree Outlet, 615 Bluebird Ct, Central Valley, NY 10917"
+
+	}, {
+		"name": "NauticaKids",
+		"address": "NauticaKids, 261 Red Apple Ct, Central Valley, NY 10917"
+
+	}, {
+		"name": "OshKosh B’gosh",
+		"address": "OshKosh B’gosh, 601 Bluebird Ct, Central Valley, NY 10917"
+
+	}, {
+		"name": "Ralph Lauren Children Store",
+		"address": "Polo Ralph Lauren Children Factory Store, 412 Evergreen Ct, Central Valley, NY 10917"
+
+	}, {
+		"name": "Tommy Hilfiger Kids",
+		"address": "Tommy Hilfiger Kids, 231 Red Apple Ct, Central Valley, NY 10917"
+
+	}, {
+		"name": "Kipling",
+		"address": "Kipling, 313 Red Apple Ct #313, Central Valley, NY 10917"
+
+	}, {
+		"name": "Longchamp",
+		"address": "Longchamp, 45 Red Apple Ct, Central Valley, NY 10917"
+
+	}, {
+		"name": "The Luggage Factory",
+		"address": "The Luggage Factory, 616 Bluebird Ct, Central Valley, NY 10917"
+
+	}, {
+		"name": "Samsonite",
+		"address": "Samsonite, 642 Bluebird Ct, Central Valley, NY 10917"
+
+	}, {
+		"name": "Tumi",
+		"address": "Tumi, 405 Evergreen Ct, Central Valley, NY 10917"
+
+	}, {
+		"name": "Corningware Corelle & More",
+		"address": "Corningware Corelle & More, 618 Bluebird Ct, Central Valley, NY 10917"
+
+	}, {
+		"name": "Frette",
+		"address": "Frette, 855 Grapevine Ct, Central Valley, NY 10917"
+
+	}, {
+		"name": "LeCreuset",
+		"address": "LeCreuset, 869 Grapevine Ct, Central Valley, NY 10917"
+
+	}, {
+		"name": "Pratesi",
+		"address": "Pratesi, 498 Red Apple Ct, Central Valley, NY 10917"
+
+	}, {
+		"name": "Bare Minerals",
+		"address": "bareMinerals | Bare Escentuals, 498 Red Apple Court, Central Valley, NY 10917"
+	}, {
+		"name": "Bose",
+		"address": "Bose Factory Store, 646 Bluebird Court, Central Valley, NY 10917"
+	}, {
+		"name": "Lancome-The Company Outlet",
+		"address": "Luxury Beauty Store - Lancome, 498 Red Apple Court, Central Valley, NY 10917"
+	}, {
+		"name": "The Cosmetics Company",
+		"address": "The Cosmetics Company, 498 Red Apple Court, Central Valley, NY 10917"
+	}, {
+		"name": "Crabtree & Evelyn",
+		"address": "Crabtree & Evelyn, 928 Grapevine Court, Central Valley, NY 10917"
+	}, {
+		"name": "Designer Fragrances",
+		"address": "Fragrance Outlets, 404 Evergreen Court, Central Valley, NY 10917"
+	}, {
+		"name": "Elizabeth Arden",
+		"address": "Elizabeth Arden Outlet, 214 Red Apple Court, Central Valley, NY 10917"
+	}, {
+		"name": "Godiva Chocolatier",
+		"address": "Godiva Chocolatier - Woodbury Common Outlets, 920 Grapevine Court, Central Valley, NY 10917"
+	}, {
+		"name": "Headline News",
+		"address": " "
+	}, {
+		"name": "L'Occitane",
+		"address": "L'Occitane en Provence, 342 Red Apple Court, Central Valley, NY 10917"
+	}, {
+		"name": "Perfumania",
+		"address": "Perfumania, 676 Bluebird Court, Central Valley, NY 10917"
+	}, {
+		"name": "Toys'R'Us Outleth",
+		"address": "Toys'R'Us Outlet Center, 620 Bluebird Ct, Woodbury Common Premium Outlet, Central Valley, NY 10917"
+	}, {
+		"name": "Travelex Currency Exchange",
+		"address": "Travelex Currency Services, Woodbury Commons - Simon Mall, 498 Red Apple Court, Central Valley, NY 10917"
+	}, {
+		"name": "Vitamin World",
+		"address": "Vitamin World, 445 Evergreen Court, Central Valley, NY 10917"
+	}, {
+		"name": "Yankee Candle",
+		"address": "Yankee Candle, 490 Evergreen Court, Central Valley, NY 10917"
+	}, {
+		"name": "Applebee’s Grill & Bar",
+		"address": "Applebee's, 448 Evergreen Court, Central Valley, NY 10917"
+	}, {
+		"name": "Cinnabon",
+		"address": "Cinnabon, 498 Red Apple K002, Central Valley, NY 10917"
+	}, {
+		"name": "Corner Cafe",
+		"address": "Corner Cafe, 498 Red Apple Court, Central Valley, NY 10917"
+	}, {
+		"name": "Häagen Dazs / Frozia",
+		"address": "Häagen-Dazs® Ice Cream Shop, 509 Factory Outlets, Woodbury Outlets Boulevard North, Central Valley, NY 10917"
+	}, {
+		"name": "South Philly Steak & Fries",
+		"address": "South Philly Steaks & Fries, 524 Food Court, Central Valley, NY 10917"
+	}, {
+		"name": "Starbucks Coffee",
+		"address": "Starbucks, 400 Evergreen Court, Central Valley, NY 10917"
+	}]
